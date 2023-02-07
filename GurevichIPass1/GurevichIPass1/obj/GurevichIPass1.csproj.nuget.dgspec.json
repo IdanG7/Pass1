@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/GurevichIPass1.csproj": {}
+    "C:\\Users\\idang\\OneDrive\\Documents\\GitHub\\Pass1\\GurevichIPass1\\GurevichIPass1\\GurevichIPass1.csproj": {}
   },
   "projects": {
-    "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/GurevichIPass1.csproj": {
+    "C:\\Users\\idang\\OneDrive\\Documents\\GitHub\\Pass1\\GurevichIPass1\\GurevichIPass1\\GurevichIPass1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/GurevichIPass1.csproj",
+        "projectUniqueName": "C:\\Users\\idang\\OneDrive\\Documents\\GitHub\\Pass1\\GurevichIPass1\\GurevichIPass1\\GurevichIPass1.csproj",
         "projectName": "GurevichIPass1",
-        "projectPath": "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/GurevichIPass1.csproj",
-        "packagesPath": "/Users/idang/.nuget/packages/",
-        "outputPath": "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/obj/",
+        "projectPath": "C:\\Users\\idang\\OneDrive\\Documents\\GitHub\\Pass1\\GurevichIPass1\\GurevichIPass1\\GurevichIPass1.csproj",
+        "packagesPath": "C:\\Users\\idang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\idang\\OneDrive\\Documents\\GitHub\\Pass1\\GurevichIPass1\\GurevichIPass1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/idang/.config/NuGet/NuGet.Config"
+          "C:\\Users\\idang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,16 +60,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

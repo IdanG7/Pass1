@@ -12,3 +12,17 @@
 /Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/obj/Debug/netcoreapp3.1/GurevichIPass1.dll
 /Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/obj/Debug/netcoreapp3.1/GurevichIPass1.pdb
 /Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/obj/Debug/netcoreapp3.1/GurevichIPass1.genruntimeconfig.cache
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\bin\Debug\netcoreapp3.1\GurevichIPass1.exe
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\bin\Debug\netcoreapp3.1\GurevichIPass1.deps.json
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\bin\Debug\netcoreapp3.1\GurevichIPass1.runtimeconfig.json
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\bin\Debug\netcoreapp3.1\GurevichIPass1.runtimeconfig.dev.json
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\bin\Debug\netcoreapp3.1\GurevichIPass1.dll
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\bin\Debug\netcoreapp3.1\GurevichIPass1.pdb
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.csproj.AssemblyReference.cache
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.AssemblyInfoInputs.cache
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.AssemblyInfo.cs
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.csproj.CoreCompileInputs.cache
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.dll
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.pdb
+C:\Users\idang\OneDrive\Documents\GitHub\Pass1\GurevichIPass1\GurevichIPass1\obj\Debug\netcoreapp3.1\GurevichIPass1.genruntimeconfig.cache
