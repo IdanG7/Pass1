@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxNG6fBwaWC+9o6eeCuV5/QG/vt6h0cZsX2mUKMxWHKG2dYYzxj/9roThMjwvlV2s0MfDgzLbJ8XvLPc8Edo0g==",
+  "success": true,
+  "projectFilePath": "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/GurevichIPass1/GurevichIPass1/GurevichIPass1.csproj",
+  "expectedPackageFiles": [
+    "/Users/idang/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/system.io.filesystem/4.3.0/system.io.filesystem.4.3.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/system.io.filesystem.primitives/4.3.0/system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/system.runtime.handles/4.3.0/system.runtime.handles.4.3.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/idang/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
