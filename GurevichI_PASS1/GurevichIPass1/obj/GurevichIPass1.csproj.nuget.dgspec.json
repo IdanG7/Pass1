@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/Pass1/GurevichI_PASS1/GurevichIPass1/GurevichIPass1.csproj": {}
+  },
+  "projects": {
+    "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/Pass1/GurevichI_PASS1/GurevichIPass1/GurevichIPass1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/Pass1/GurevichI_PASS1/GurevichIPass1/GurevichIPass1.csproj",
+        "projectName": "GurevichIPass1",
+        "projectPath": "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/Pass1/GurevichI_PASS1/GurevichIPass1/GurevichIPass1.csproj",
+        "packagesPath": "/Users/idang/.nuget/packages/",
+        "outputPath": "/Users/idang/Desktop/ICS4U1/Assignments/PASS1/Pass1/GurevichI_PASS1/GurevichIPass1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/idang/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Ryan.MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.7.200, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.FileSystem": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8438F934-D54B-4ED7-876E-5D38FAE0575C}|Default">
+  <MonoDevelop.Ide.ItemProperties.GurevichIPass1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GurevichIPass1/Program.cs">
+    <Files>
+      <File FileName="GurevichIPass1/Program.cs" Line="230" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GurevichIPass1" expanded="True">
+            <Node name="GurevichIPass1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
